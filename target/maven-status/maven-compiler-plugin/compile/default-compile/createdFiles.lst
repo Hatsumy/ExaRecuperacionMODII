@@ -4,9 +4,9 @@ servlet\Login.class
 dao\MedicoJpaController.class
 dto\Medico_.class
 dto\Medico.class
-servlet\GenerateReport.class
 servlet\MedicoCRUD.class
 servlet\ChangePassword.class
 utils\BcryptJava.class
 dao\exceptions\PreexistingEntityException.class
+.netbeans_automatic_build
 dao\exceptions\IllegalOrphanException.class
