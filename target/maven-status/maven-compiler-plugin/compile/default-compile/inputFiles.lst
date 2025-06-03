@@ -1,8 +1,11 @@
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\dao\exceptions\NonexistentEntityException.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\dao\exceptions\PreexistingEntityException.java
+C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\servlet\ChangePassword.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\utils\BcryptJava.java
+C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\servlet\MedicoCRUD.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\utils\JwtUtil.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\dao\MedicoJpaController.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\dto\Medico.java
+C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\servlet\GenerateReport.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\servlet\Login.java
 C:\Users\HATSUMY\Desktop\ExamenRecuperacion\src\main\java\dao\exceptions\IllegalOrphanException.java

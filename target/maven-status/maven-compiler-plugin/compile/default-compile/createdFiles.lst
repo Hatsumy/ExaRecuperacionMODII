@@ -2,8 +2,11 @@ dao\exceptions\NonexistentEntityException.class
 utils\JwtUtil.class
 servlet\Login.class
 dao\MedicoJpaController.class
+dto\Medico_.class
+dto\Medico.class
+servlet\GenerateReport.class
+servlet\MedicoCRUD.class
+servlet\ChangePassword.class
 utils\BcryptJava.class
 dao\exceptions\PreexistingEntityException.class
-dto\Medico_.class
 dao\exceptions\IllegalOrphanException.class
-dto\Medico.class
